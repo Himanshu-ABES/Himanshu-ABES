@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
+<h1 align="center" >Hi 👋, I'm Himanshu Chauhan</h1>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -107,6 +107,6 @@
 <h1></h1> <!-- for line break -->
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-abes&show_icons=true&locale=en&layout=compact" alt="himanshu-abes" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-abes&show_icons=true&locale=en&theme=dark" alt="himanshu-abes" /></div>
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshu-abes&show_icons=true&locale=en" alt="himanshu-abes" /></div>
+<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshu-abes&show_icons=true&locale=en&theme=dark" alt="himanshu-abes" /></div>
