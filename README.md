@@ -4,14 +4,14 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <div align="center">
   
-  🔭 I’m currently working on **MEARN**
+  🔭 I’m currently working on **MERN**
   
   🌱 I’m currently learning **Node.js**
   
-  💬 Ask me about **Python, React, GSAP, Data Science**
+  💬 Ask me about **Python, React**
   
   📫 How to reach me **explore.himanshu@gmail.com**
   
