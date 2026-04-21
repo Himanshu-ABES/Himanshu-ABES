@@ -37,23 +37,23 @@
 ### Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-chauhan-180p" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/exploreHimanshu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" height="45"/>
+    <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:explore.himanshu@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/Himanshu-V7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" height="38" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/2022b1541059" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="HackerRank" height="38" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="HackerRank" height="40" />
   </a>
 </p>
 <p align="center">
